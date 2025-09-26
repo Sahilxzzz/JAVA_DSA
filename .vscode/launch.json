@@ -1,0 +1,342 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "runtime_poly",
+            "request": "launch",
+            "mainClass": "oops.polymorphism.runtime_poly",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "polymorphism",
+            "request": "launch",
+            "mainClass": "oops.polymorphism.polymorphism",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "encapsulation_constructor",
+            "request": "launch",
+            "mainClass": "oops.encapsulation.encapsulation_constructor",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "encapsulation",
+            "request": "launch",
+            "mainClass": "oops.encapsulation.encapsulation",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "hierarchical_inheritance",
+            "request": "launch",
+            "mainClass": "oops.inheritance.hierarchical_inheritance",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "oops.inheritance.Main",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "find_max$Main",
+            "request": "launch",
+            "mainClass": "arrays.find_max$Main",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "CopyConstructor",
+            "request": "launch",
+            "mainClass": "constructors.CopyConstructor",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "parameterized_constructor",
+            "request": "launch",
+            "mainClass": "constructors.parameterized_constructor",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "default_constructor",
+            "request": "launch",
+            "mainClass": "constructors.default_constructor",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "parameterized_constructor",
+            "request": "launch",
+            "mainClass": "Functions.constructors.parameterized_constructor",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "default_constructor",
+            "request": "launch",
+            "mainClass": "Functions.constructors.default_constructor",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "sumof_1stnaturalnos",
+            "request": "launch",
+            "mainClass": "Functions.sumof_1stnaturalnos",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "prime_no_2",
+            "request": "launch",
+            "mainClass": "Functions.prime_no_2",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "pythagorean_triplet",
+            "request": "launch",
+            "mainClass": "Functions.pythagorean_triplet",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "Functions.palindrome",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "Functions.factorial",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "marks_subject",
+            "request": "launch",
+            "mainClass": "Functions.marks_subject",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "prime_no",
+            "request": "launch",
+            "mainClass": "Functions.prime_no",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "area_circum_circle",
+            "request": "launch",
+            "mainClass": "Functions.area_circum_circle",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "Functions.sum",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "vote_eligible",
+            "request": "launch",
+            "mainClass": "Functions.vote_eligible",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "even_odd",
+            "request": "launch",
+            "mainClass": "Functions.even_odd",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "max_and_min",
+            "request": "launch",
+            "mainClass": "Functions.max_and_min",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "passbyval",
+            "request": "launch",
+            "mainClass": "passbyval",
+            "projectName": "Java_DSA_code_655335b0"
+        },
+        {
+            "type": "java",
+            "name": "functions_6",
+            "request": "launch",
+            "mainClass": "functions_6",
+            "projectName": "Java_deb26318"
+        },
+        {
+            "type": "java",
+            "name": "functions_5",
+            "request": "launch",
+            "mainClass": "functions_5",
+            "projectName": "Java_deb26318"
+        },
+        {
+            "type": "java",
+            "name": "Functions",
+            "request": "launch",
+            "mainClass": "Functions",
+            "projectName": "Java_deb26318"
+        },
+        {
+            "type": "java",
+            "name": "add_2_no",
+            "request": "launch",
+            "mainClass": "add_2_no",
+            "projectName": "Java_deb26318"
+        },
+        {
+            "type": "java",
+            "name": "patterns_4",
+            "request": "launch",
+            "mainClass": "patterns_4",
+            "projectName": "Java_deb26318"
+        },
+        {
+            "type": "java",
+            "name": "patterns_3",
+            "request": "launch",
+            "mainClass": "patterns_3",
+            "projectName": "Java_deb26318"
+        },
+        {
+            "type": "java",
+            "name": "patterns_2",
+            "request": "launch",
+            "mainClass": "patterns_2",
+            "projectName": "Java_deb26318"
+        },
+        {
+            "type": "java",
+            "name": "patterns_1",
+            "request": "launch",
+            "mainClass": "patterns_1",
+            "projectName": "Java_deb26318"
+        },
+        {
+            "type": "java",
+            "name": "Array_2D",
+            "request": "launch",
+            "mainClass": "Array_2D",
+            "projectName": "Java_2978181d"
+        },
+        {
+            "type": "java",
+            "name": "arrays",
+            "request": "launch",
+            "mainClass": "arrays",
+            "projectName": "Java_2978181d"
+        },
+        {
+            "type": "java",
+            "name": "for_loop",
+            "request": "launch",
+            "mainClass": "for_loop",
+            "projectName": "Java_2978181d"
+        },
+        {
+            "type": "java",
+            "name": "while_loop",
+            "request": "launch",
+            "mainClass": "while_loop",
+            "projectName": "Java_2978181d"
+        },
+        {
+            "type": "java",
+            "name": "logical_opr",
+            "request": "launch",
+            "mainClass": "logical_opr",
+            "projectName": "Java_2978181d"
+        },
+        {
+            "type": "java",
+            "name": "switch_stat",
+            "request": "launch",
+            "mainClass": "switch_stat",
+            "projectName": "Java_2978181d"
+        },
+        {
+            "type": "java",
+            "name": "if_else",
+            "request": "launch",
+            "mainClass": "if_else",
+            "projectName": "Java_2978181d"
+        },
+        {
+            "type": "java",
+            "name": "operators",
+            "request": "launch",
+            "mainClass": "operators",
+            "projectName": "Java_2978181d"
+        },
+        {
+            "type": "java",
+            "name": "user_input",
+            "request": "launch",
+            "mainClass": "user_input",
+            "projectName": "Java_2978181d"
+        },
+        {
+            "type": "java",
+            "name": "swapping",
+            "request": "launch",
+            "mainClass": "swapping",
+            "projectName": "Java_2978181d"
+        },
+        {
+            "type": "java",
+            "name": "vairables",
+            "request": "launch",
+            "mainClass": "vairables",
+            "projectName": "Java_2978181d"
+        },
+        {
+            "type": "java",
+            "name": "syntax",
+            "request": "launch",
+            "mainClass": "syntax",
+            "projectName": "Java_2978181d"
+        },
+        {
+            "type": "java",
+            "name": "string_methods",
+            "request": "launch",
+            "mainClass": "string_methods",
+            "projectName": "Java_2978181d"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Java_2978181d"
+        },
+        {
+            "name": "Dart & Flutter",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
