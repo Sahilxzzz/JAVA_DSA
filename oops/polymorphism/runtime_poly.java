@@ -15,4 +15,4 @@ public class runtime_poly {
         System.out.println(m.Multiply(2.0222, 3.43433));
         System.out.println(m.Multiply(4, 10));
     }
-}
+}                       
