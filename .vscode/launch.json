@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "string2D",
+            "request": "launch",
+            "mainClass": "arrays.string2D",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
             "name": "Array2D",
             "request": "launch",
             "mainClass": "arrays.Array2D",
