@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "max_element",
+            "request": "launch",
+            "mainClass": "arrays.max_element",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
+            "name": "swap_elements",
+            "request": "launch",
+            "mainClass": "arrays.swap_elements",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
             "name": "string2D",
             "request": "launch",
             "mainClass": "arrays.string2D",
