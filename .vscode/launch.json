@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array2D",
+            "request": "launch",
+            "mainClass": "arrays.Array2D",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
+            "name": "parameterized_constructor",
+            "request": "launch",
+            "mainClass": "constructors.parameterized_constructor",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
+            "name": "Array_2D",
+            "request": "launch",
+            "mainClass": "Array_2D",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
             "name": "runtime_poly",
             "request": "launch",
             "mainClass": "oops.polymorphism.runtime_poly",
