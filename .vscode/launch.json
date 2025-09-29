@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reverse_no",
+            "request": "launch",
+            "mainClass": "basic_maths.reverse_no",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
+            "name": "count_digits",
+            "request": "launch",
+            "mainClass": "basic_maths.count_digits",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
+            "name": "extraction_digit",
+            "request": "launch",
+            "mainClass": "basic_maths.extraction_digit",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
+            "name": "reverse_array",
+            "request": "launch",
+            "mainClass": "arrays.reverse_array",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
             "name": "max_element",
             "request": "launch",
             "mainClass": "arrays.max_element",
