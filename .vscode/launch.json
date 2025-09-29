@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "armstrong",
+            "request": "launch",
+            "mainClass": "basic_maths.armstrong",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
             "name": "reverse_no",
             "request": "launch",
             "mainClass": "basic_maths.reverse_no",
