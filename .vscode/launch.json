@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "gcd_hcf",
+            "request": "launch",
+            "mainClass": "basic_maths.gcd_hcf",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
+            "name": "prime_no",
+            "request": "launch",
+            "mainClass": "basic_maths.prime_no",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
+            "name": "printall_divisiors",
+            "request": "launch",
+            "mainClass": "basic_maths.printall_divisiors",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
             "name": "armstrong",
             "request": "launch",
             "mainClass": "basic_maths.armstrong",
