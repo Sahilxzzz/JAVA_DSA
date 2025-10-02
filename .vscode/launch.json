@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "print_n_to_one",
+            "request": "launch",
+            "mainClass": "recursion.print_n_to_one",
+            "projectName": "Java_DSA_2aee1b3b"
+        },
+        {
+            "type": "java",
+            "name": "print_oneton",
+            "request": "launch",
+            "mainClass": "recursion.print_oneton",
+            "projectName": "Java_DSA_2aee1b3b"
+        },
+        {
+            "type": "java",
             "name": "gcd_hcf",
             "request": "launch",
             "mainClass": "basic_maths.gcd_hcf",
