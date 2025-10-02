@@ -12,4 +12,4 @@ public class sum_of_first1 {
         int n = 3;
         System.out.println(f(3));
     }
-}
+}   
