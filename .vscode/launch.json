@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sum_of_first1",
+            "request": "launch",
+            "mainClass": "recursion.sum_of_first1",
+            "projectName": "Java_DSA_2aee1b3b"
+        },
+        {
+            "type": "java",
+            "name": "sum_of_first",
+            "request": "launch",
+            "mainClass": "recursion.sum_of_first",
+            "projectName": "Java_DSA_2aee1b3b"
+        },
+        {
+            "type": "java",
             "name": "print_n_to_one",
             "request": "launch",
             "mainClass": "recursion.print_n_to_one",
