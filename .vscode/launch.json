@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fibonacci_series",
+            "request": "launch",
+            "mainClass": "recursion.fibonacci_series",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
+            "name": "valid_palindrome",
+            "request": "launch",
+            "mainClass": "recursion.valid_palindrome",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
             "name": "reverse_method2",
             "request": "launch",
             "mainClass": "recursion.reverse_method2",
