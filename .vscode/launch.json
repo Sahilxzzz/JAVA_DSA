@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reverse_method2",
+            "request": "launch",
+            "mainClass": "recursion.reverse_method2",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
+            "name": "reverse_recursion",
+            "request": "launch",
+            "mainClass": "recursion.reverse_recursion",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
+            "name": "factorial1",
+            "request": "launch",
+            "mainClass": "recursion.factorial1",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
             "name": "factorial",
             "request": "launch",
             "mainClass": "recursion.factorial",
