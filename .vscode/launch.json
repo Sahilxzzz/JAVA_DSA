@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "counting_elements_array",
+            "request": "launch",
+            "mainClass": "hashing.counting_elements_array",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
             "name": "fibonacci_series",
             "request": "launch",
             "mainClass": "recursion.fibonacci_series",
