@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hashmaps",
+            "request": "launch",
+            "mainClass": "hashing.hashmaps",
+            "projectName": "Java_DSA_2aee1b3b"
+        },
+        {
+            "type": "java",
             "name": "counting_character",
             "request": "launch",
             "mainClass": "hashing.counting_character",
