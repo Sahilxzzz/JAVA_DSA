@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "counting_character",
+            "request": "launch",
+            "mainClass": "hashing.counting_character",
+            "projectName": "Java_DSA_2aee1b3b"
+        },
+        {
+            "type": "java",
             "name": "counting_elements_array",
             "request": "launch",
             "mainClass": "hashing.counting_elements_array",
