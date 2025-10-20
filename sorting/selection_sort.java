@@ -23,8 +23,7 @@ public class selection_sort {
             arr[i] = sc.nextInt();
         }
         selection_sort(arr,n);
-        for(int i=0;i<n;i++){
-           System.out.print(Arrays.toString(arr));
-        }
+        System.out.print(Arrays.toString(arr));
+        
     }
 }
