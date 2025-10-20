@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "highest_lowest_hashmaps",
+            "request": "launch",
+            "mainClass": "hashing.highest_lowest_hashmaps",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
             "name": "occurance_element_hashmaps",
             "request": "launch",
             "mainClass": "hashing.occurance_element_hashmaps",
