@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "insertion_sort",
+            "request": "launch",
+            "mainClass": "sorting.insertion_sort",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
             "name": "bubble_sort",
             "request": "launch",
             "mainClass": "sorting.bubble_sort",
