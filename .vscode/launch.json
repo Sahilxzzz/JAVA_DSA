@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "check_array_sorted",
+            "request": "launch",
+            "mainClass": "arrays.check_array_sorted",
+            "projectName": "Java_DSA_c7a87015"
+        },
+        {
+            "type": "java",
             "name": "largest_element",
             "request": "launch",
             "mainClass": "arrays.largest_element",
