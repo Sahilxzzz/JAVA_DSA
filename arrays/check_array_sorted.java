@@ -17,6 +17,6 @@ public class check_array_sorted {
             System.out.println(false);
         }
     }
-    System.out.println(true);
+    System.out.println(true);   
     }
 }

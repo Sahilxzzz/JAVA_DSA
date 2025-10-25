@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "left_rotate_by_oneplace",
+            "request": "launch",
+            "mainClass": "arrays.left_rotate_by_oneplace",
+            "projectName": "Java_DSA_2aee1b3b"
+        },
+        {
+            "type": "java",
+            "name": "remove_duplicate",
+            "request": "launch",
+            "mainClass": "arrays.remove_duplicate",
+            "projectName": "Java_DSA_2aee1b3b"
+        },
+        {
+            "type": "java",
             "name": "s_smallest",
             "request": "launch",
             "mainClass": "arrays.s_smallest",
