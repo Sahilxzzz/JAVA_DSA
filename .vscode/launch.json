@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "rightrotate",
+            "request": "launch",
+            "mainClass": "arrays.rightrotate",
+            "projectName": "Java_DSA_2aee1b3b"
+        },
+        {
+            "type": "java",
             "name": "left_rotae_arry_by_k_place",
             "request": "launch",
             "mainClass": "arrays.left_rotae_arry_by_k_place",
