@@ -1,3 +1,4 @@
+package arrays;
 /*public class arrays {
     public static void main (String []args){
         String [] car = {"LAMBO", "Porsche","Buggati"};

@@ -6,10 +6,52 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "left_rotate_array",
             "request": "launch",
             "mainClass": "arrays.left_rotate_array",
             "projectName": "Java_DSA_c7a87015"
+=======
+            "name": "linear_search",
+            "request": "launch",
+            "mainClass": "arrays.linear_search",
+            "projectName": "Java_DSA_2aee1b3b"
+        },
+        {
+            "type": "java",
+            "name": "move_zeros_to_end",
+            "request": "launch",
+            "mainClass": "arrays.move_zeros_to_end",
+            "projectName": "Java_DSA_2aee1b3b"
+        },
+        {
+            "type": "java",
+            "name": "rightrotate",
+            "request": "launch",
+            "mainClass": "arrays.rightrotate",
+            "projectName": "Java_DSA_2aee1b3b"
+        },
+        {
+            "type": "java",
+            "name": "left_rotae_arry_by_k_place",
+            "request": "launch",
+            "mainClass": "arrays.left_rotae_arry_by_k_place",
+            "projectName": "Java_DSA_2aee1b3b"
+        },
+        {
+            "type": "java",
+            "name": "left_rotate_by_oneplace",
+            "request": "launch",
+            "mainClass": "arrays.left_rotate_by_oneplace",
+            "projectName": "Java_DSA_2aee1b3b"
+        },
+        {
+            "type": "java",
+            "name": "remove_duplicate",
+            "request": "launch",
+            "mainClass": "arrays.remove_duplicate",
+            "projectName": "Java_DSA_2aee1b3b"
+>>>>>>> 78287b0f80d808afdf20550d46bc48e1f54a664d
         },
         {
             "type": "java",

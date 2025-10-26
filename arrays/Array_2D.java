@@ -1,4 +1,4 @@
-//2D Array list 
+package arrays;
 
 public class Array_2D {
     public static void main(String[] args) {
